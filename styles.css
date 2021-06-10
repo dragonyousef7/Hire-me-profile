@@ -1,0 +1,40 @@
+h1{
+    background-color: gold ;
+}
+p{
+    background-color: white ;
+}
+h2{  
+font-family: 'Oswald' , sans-serif;
+    }
+h1{
+font-family: 'Oswald', sans-serif;
+}
+p{
+font-family: 'Oswald', sans-serif;
+}
+img {  
+  height: 250px;
+  width: 100%;
+}
+h2{
+    background-color: white;
+}
+@keyframes kf-color-mix {
+  0% { color: red; }
+  100% { color: blue; }
+}
+
+body {
+  margin: 1em;
+  width: 300px;
+}
+
+body {
+  height: 30px;
+  animation: kf-color-mix 1s linear infinite alternate;
+  background: currentColor;
+}
+a{
+    background-color: white ;
+}
